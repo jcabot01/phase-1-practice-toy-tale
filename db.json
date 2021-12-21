@@ -4,13 +4,13 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 5
+      "likes": "11"
     },
     {
       "id": 2,
       "name": "Buzz Lightyear",
       "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 8
+      "likes": "12"
     },
     {
       "id": 3,
@@ -47,6 +47,24 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": 1
+    },
+    {
+      "name": "Sid",
+      "image": "https://static.wikia.nocookie.net/characters/images/8/81/Sid_Phillips.png/revision/latest?cb=20190405022722",
+      "likes": 0,
+      "id": 9
+    },
+    {
+      "name": "Sid#2",
+      "image": "https://static.wikia.nocookie.net/characters/images/8/81/Sid_Phillips.png/revision/latest?cb=20190405022722",
+      "likes": 0,
+      "id": 10
+    },
+    {
+      "name": "Forkie",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Forky_waving.png/220px-Forky_waving.png",
+      "likes": 0,
+      "id": 11
     }
   ]
 }
